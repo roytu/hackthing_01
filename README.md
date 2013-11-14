@@ -37,47 +37,65 @@ Extra: Linking With Twitter
 SETUP:
 -------
 1) Download Python 3.x: http://python.org/download/
+
 2) Get a shell:
 
 For Windows:
+
     Download Cygwin: http://cygwin.com/install.html
+
     *** Will update with better instructions later ***
-    NOTE:
-        For Windows users, I strongly recommend setting up a virtual machine with VirtualBox and Ubuntu or one of its variants, but the process is nuanced and I can understand if you don't want to set up something so heavy. But Cygwin really sucks.
+
+    NOTE: For Windows users, I strongly recommend setting up a virtual machine with VirtualBox and Ubuntu or one of its variants, but the process is nuanced and I can understand if you don't want to set up something so heavy. But Cygwin really sucks.
 
 For Macintosh & Linux:
+
     You already have a shell! Yay!
+
     (except Macs don't have apt-get or gcc installed by default but hopefully we won't touch those for now)
 
 3) Get a text editor:
 
 Vim:
+
     http://www.vim.org/download.php
+
         or type
+
     sudo apt-get install vim
+
         in Terminal
 
 Emacs: 
+
     http://www.gnu.org/software/emacs/#Obtaining
+
         or type
+
     sudo apt-get install emacs
+
         in Terminal
 
     * I don't actually know how to use Emacs.
 
 4) Make sure the commands "curl" and "wget" run from your shell.
+
     *** Will update with better instructions later ***
 
 5) OPTIONAL: Get git
 
 For Windows:
+
     http://git-scm.com/download/win
 
 For Mac:
+
     http://git-scm.com/download/mac
 
 For Linux:
+
     In Terminal:
+
         sudo apt-get install git
 
 *** MORE SOON ***
